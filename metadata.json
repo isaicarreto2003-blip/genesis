@@ -1,0 +1,6 @@
+{
+  "name": "Juegos Bíblicos Génesis 1 & Tienda de Recursos Bíblicos",
+  "description": "Juegos interactivos de Génesis 1 y tienda oficial de recursos bíblicos pedagógicos: Guías exegéticas, cuadernos de actividades infantiles y flashcards de la Creación.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

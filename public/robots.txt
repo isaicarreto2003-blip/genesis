@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://juegos-biblicos-genesis.vercel.app/sitemap.xml
